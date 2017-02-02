@@ -1,3 +1,8 @@
 this is a test Dev.
 
+
 since pull request was rejected, I added more stuff...
+
+I left this dunring manual merge.....
+EDITED DIRECTLLY IN MASTER
+
